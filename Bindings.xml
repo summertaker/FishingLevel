@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="FISHINGLEVEL_TOGGLE" header="FISHINGLEVEL" category="ADDONS">
+		FishingLevel_ToggleKey_OnPress()
+	</Binding>
+</Bindings>

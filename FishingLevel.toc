@@ -1,0 +1,8 @@
+## Interface: 70300
+## Title: Fishing Level
+## Title-koKR: 낚시레벨
+## Author: Summertaker
+## Version: 1.0
+
+Localization.lua
+FishingLevel.xml
